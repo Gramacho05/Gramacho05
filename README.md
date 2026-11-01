@@ -47,3 +47,11 @@ Programa em C que criptografa uma palavra em duas camadas: cifra de César e des
 ## 🎯 Objetivo
 
 Busco minha primeira oportunidade como desenvolvedor, para aprender e contribuir com resultados desde o início. Estou aberto a novas oportunidades e conexões e fico à disposição para conversar pelo [LinkedIn](https://www.linkedin.com/in/gabriel-braes-gramacho-3a6191403/).
+
+## 🎮 Jogo da cobrinha
+
+<a href="https://gramacho05.github.io/jogo-da-cobrinha/">
+  <img src="https://raw.githubusercontent.com/Gramacho05/jogo-da-cobrinha/main/preview.gif" width="300" alt="Jogo da cobrinha" />
+</a>
+
+Clique na animação para jogar.
