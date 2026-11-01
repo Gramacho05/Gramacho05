@@ -20,7 +20,7 @@ Sou desenvolvedor full-stack, atleta profissional e tenho experiência em vendas
 | Atendimento | Entender o que o cliente realmente precisa e resolver problemas sob pressão |
 | Vendas e empreendedorismo | Uma visão empreendedora, para entregar o que faz sentido para o negócio e para quem usa |
 
-## 🧰 Minha stack
+## 🧰 Tecnologias 
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
